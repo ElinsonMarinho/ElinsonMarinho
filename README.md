@@ -4,7 +4,7 @@
 
 Sou Desenvolvedor WEB Frontend, já desenvolvi projetos em sala de aula, bem como projetos pessoais utilizando as principais tecnologias que as empresas buscam na atualidade.
 <br><br>
-Atualmente tenho desenvolvido a Stack Frontend e também tenho interesse em aprender backend para enriquecer as minhas Hard Skills.
+Atualmente desenvolvo a Stack Frontend e também tenho interesse em aprender backend para enriquecer as minhas Hard Skills.
 <br><br>
 Sou Focado, minimalista, fácil aprendizado e gosto de trabalhar em equipe.
 <br><br>

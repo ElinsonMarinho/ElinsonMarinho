@@ -27,5 +27,5 @@ Sou Focado, minimalista, fácil aprendizado e gosto de trabalhar em equipe.
 
 Desenvolvimento Web Frontend com muito foco e determinação.💡
 
-### Espero contribuir com o seu Projeto e fazer parte do seu Time! 🚀
+### Espero ter a oportunidade de fazer parte do seu Time! 🚀
 

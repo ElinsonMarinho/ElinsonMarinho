@@ -1,7 +1,8 @@
 
 
-### Olá! Me chamo Elinson Marinho. 🤙
-Sou estudante de Engenharia de Software e cursos livres em Desenvolvimento Web, já desenvolvi projetos em sala de aula, bem como projetos pessoais utilizando as principais tecnologias que as empresas buscam. Atualmente tenho estudado e desenvolvido a Stack Frontend e também tenho interesse em aprender as outras tecnologias para enriquecer as minhas Hard Skills.
+### Olá! Me chamo Elinson Marinho. 🤓💻🖥️🗔🛫💡
+
+Sou Desenvolvedor WEB Frontend, já desenvolvi projetos em sala de aula, bem como projetos pessoais utilizando as principais tecnologias que as empresas buscam na atualidade. Atualmente tenho estudado e desenvolvido a Stack Frontend e também tenho interesse em aprender backend para enriquecer as minhas Hard Skills.
 Sou Focado, minimalista, fácil aprendizado e gosto de trabalhar em equipe.
 <br><br>
 
@@ -21,7 +22,7 @@ Sou Focado, minimalista, fácil aprendizado e gosto de trabalhar em equipe.
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br>
 
-Desbravando o mundo do Desenvolvimento Web com muito foco e determinação.💡
+Desenvolvimento Web Frontend com muito foco e determinação.💡
 
 ### Espero contribuir com o seu Projeto e fazer parte do seu Time! 🚀
 

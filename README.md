@@ -4,7 +4,7 @@
 
 ### Me chamo Elinson Marinho. 🤓💻🖥️🗔🛫💡
 
-Sou Desenvolvedor WEB Frontend, já desenvolvi projetos utilizando as principais tecnologias que as empresas buscam na atualidade.
+Sou Desenvolvedor WEB Frontend, desenvolvo projetos utilizando as principais tecnologias do mercado na atualidade.
 <br><br>
 Atualmente desenvolvo a Stack Frontend e também tenho interesse em aprender backend para enriquecer as minhas Hard Skills.
 <br><br>

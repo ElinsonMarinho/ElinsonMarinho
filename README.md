@@ -2,7 +2,7 @@
 
 ### Olá, Espero que esteja Bem!.
 
-### Me chamo Elinson Marinho. 🤓💻🖥️🗔🛫💡
+### Me chamo Elinson Marinho.
 
 Sou Desenvolvedor WEB Frontend, desenvolvo projetos utilizando as principais tecnologias da atualidade.
 <br><br>
